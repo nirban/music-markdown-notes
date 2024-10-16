@@ -12,9 +12,30 @@ K: A
 
 ---
 chords:
-  Gdim:
-    - o3 b1,4,3 n2,4 n3,5 m5 m6
+  AMaj:
+
 ---
+
+:::abc
+
+X: 1
+T: Har kisiko Nahi milta
+Q:1/4=110
+M: 4/4
+L: 1
+K: A
+|:"A" [AEC] |\
+     [AEC]|\
+    "D" [DFA]|\
+    [DFA]|
+"G" [GFD]|\
+    [GFD]|\
+    "Bb" [_BFD] |\
+    [_BFD] |\
+    "A" [AEC] :|
+
+
+:::
 
 ## Solo
 
