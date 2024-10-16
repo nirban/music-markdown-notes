@@ -5,7 +5,7 @@
 
 
 ---
-Scribe: Nirban Das
+S: Scribe: Nirban Das
 ---
 
 ## Solo
