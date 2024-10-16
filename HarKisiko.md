@@ -29,8 +29,8 @@ K: A
      [AEC]|\
     "D" [DFA]|\
     [DFA]|
-"G" [GFD]|\
-    [GFD]|\
+"G" [GBD]|\
+    [GBD]|\
     "Bb" [_BFD] |\
     [_BFD] |\
     "A" [AEC] :|
