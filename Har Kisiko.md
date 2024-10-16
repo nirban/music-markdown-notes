@@ -73,9 +73,9 @@ l1: Yahaan pyar zindagi mein
 
 ## Solo
 
-Solo.........|..............
+main Solo.........|..............
 
-Solo.........|..............
+main Solo.........|..............
 
  
  
@@ -91,19 +91,23 @@ l1: Yaar na ho toh bandegi kya hai
 
 Riff. . . . | . . . . 
 
-
+## 1st Para
 
 c1:     A             Dm
 l1: Pyar na ho toh zindagi kya hai
 
 c1:      Dm                  A
 l1: Yaar na ho toh bandegi kya hai
+
+## Chorus3
  
 c1:     G
 l1: Tujhse hi her khushi hai
 
 c1:      G                    Bb    A
 l1: Tere damm se ashiqui hai, jaan le
+
+## verse3
  
 c1:             A                 D
 l1: Mil jaayein hum to, sab kuchh sahi hai
@@ -127,6 +131,7 @@ l1: Kismaton se milte hain do dil yahaan
 
 c1:         A         G
 l1: Her kisi ko nahi milta
+
 c1:        Bb           A
 l1: Yahaan pyar zindagi mein  (x2)
 
