@@ -1,7 +1,14 @@
 ---
 ---
 
-# Har Kisiko
+# Har Kisiko Nahi Milta Hue Version
+
+
+---
+youTubeId: acvIVA9-FMQ
+---
+
+
 
 ## Verse
 
@@ -46,63 +53,75 @@ l1: Jinko hai mili
 c1:     Bb         A
 l1: Yeh bahar zindagi mein
  
- ## Chorus 
+## Chorus 
  
-      A          G
-Her kisi ko nahi milta
-      Bb         A
-Yahaan pyar zindagi mein
+c1:       A          G
+l1: Her kisi ko nahi milta
+
+c1:       Bb         A
+l1: Yahaan pyar zindagi mein
  
  
 ## 1st para
 
 c1:     A             Dm
 l1: Pyar na ho toh zindagi kya hai
-     Dm                  A
-Yaar na ho toh bandegi kya hai  
-    A             Dm
-Pyar na ho toh zindagi kya hai
-     Dm                  A
-Yaar na ho toh bandegi kya hai
+
+c1:     Dm                  A
+l1: Yaar na ho toh bandegi kya hai  
+
+c1:     A             Dm
+l1: Pyar na ho toh zindagi kya hai
+
+c1:      Dm                  A
+l1: Yaar na ho toh bandegi kya hai
  
-    G
-Tujhse hi her khushi hai
-     G                    Bb    A
-Tere damm se ashiqui hai, jaan le
+c1:     G
+l1: Tujhse hi her khushi hai
+
+c1:      G                    Bb    A
+l1: Tere damm se ashiqui hai, jaan le
  
-            A                 D
-Mil jaayein hum to, sab kuchh sahi hai
-        G                A
-Phir is tarah kyoon hain ajnabee
- 
- 
-       A              A
-Tumme hum hain, humme tum ho
-      G               G
-Tumse hum hain, humse tum ho
-    F                         G
-Kismaton se milte hain do dil yahaan
- 
-        A         G
-Her kisi ko nahi milta
-       Bb           A
-Yahaan pyar zindagi mein  (x2)
+c1:             A                 D
+l1: Mil jaayein hum to, sab kuchh sahi hai
+
+c1:         G                A
+l1: Phir is tarah kyoon hain ajnabee
  
  
-(Chords Same as 1st Para)
-    A             Dm
-Tu mohabbat hai, ishq hai mera
-     Dm                  A
-Ek ibadat hai, sath yeh tera  (x2)
+c1:        A              A
+l1: Tumme hum hain, humme tum ho
+
+c1:       G               G
+l1: Tumse hum hain, humse tum ho
+
+c1:     F                         G
+l1: Kismaton se milte hain do dil yahaan
  
-Jab dil se dil milein hai
-Phir kyoon yeh faansle hain, is tarah
+## Chrous
+
+c1:         A         G
+l1: Her kisi ko nahi milta
+c1:        Bb           A
+l1: Yahaan pyar zindagi mein  (x2)
  
-Aa bol de tu, ya bol du main
-Kab tak chhupaayein, yeh bekhudi
-Tumme hum hain, humme tum ho
-Tumse hum hain, humse tum ho
-Kismaton se milte hain do dil yahaan
+ 
+## 2nd Para
+
+c1:     A             Dm
+l1: Tu mohabbat hai, ishq hai mera
+
+c1:      Dm                  A
+l1: Ek ibadat hai, sath yeh tera  (x2)
+ 
+l1: Jab dil se dil milein hai
+l1: Phir kyoon yeh faansle hain, is tarah
+ 
+l1: Aa bol de tu, ya bol du main
+l1: Kab tak chhupaayein, yeh bekhudi
+l1: Tumme hum hain, humme tum ho
+l1: Tumse hum hain, humse tum ho
+l1: Kismaton se milte hain do dil yahaan
  
  
        A           G
