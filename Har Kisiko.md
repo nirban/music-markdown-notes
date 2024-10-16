@@ -114,17 +114,31 @@ l1: Tu mohabbat hai, ishq hai mera
 c1:      Dm                  A
 l1: Ek ibadat hai, sath yeh tera  (x2)
  
+c1:     A             Dm 
 l1: Jab dil se dil milein hai
+
+c1:      Dm                  A
 l1: Phir kyoon yeh faansle hain, is tarah
- 
+
+c1:     G 
 l1: Aa bol de tu, ya bol du main
+
+c1:      G                    Bb    A
 l1: Kab tak chhupaayein, yeh bekhudi
+
+
+
+c1:        A              A
 l1: Tumme hum hain, humme tum ho
+
+c1:       G               G
 l1: Tumse hum hain, humse tum ho
+
+c1:     F                         G
 l1: Kismaton se milte hain do dil yahaan
  
  
-       A           G
-Her kisi ko nahi milta
-       Bb            A
-Yahaan pyar zindagi mein...  (x2)
+c1:        A           G
+l1: Her kisi ko nahi milta
+c1:        Bb            A
+l1: Yahaan pyar zindagi mein...  (x2)
