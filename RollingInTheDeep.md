@@ -21,6 +21,7 @@ K: Am
 
 X: 1
 T: Rolling In THe Deep
+T: Adele
 Q:1/4=105
 M: 4/4
 L: 1
@@ -164,21 +165,22 @@ l1: But you played it    with a beating
 
  
  
-[Verse]
+## Verse
  
-N.C.
+c1: Am             Em
 l1: Throw yourself through every open door (Whoa)
 
- 
+c1: G                      F                    G
 l1: Count your blessings to find what you look for (Whoa-uh)
 
-c1: Am
+c1: Am             Em
 l1: Turn my sorrow into treasured gold (Whoa)
  
+c1: G                                Em 
 l1: You'll pay me back in kind and reap just what you sow.
  
  
-[Chorus]
+## Chorus
  
 c1:  Am                     G
 l1: (You're gonna wish you, never had met me)
