@@ -12,8 +12,8 @@ K: A
 ---
 
 ---
-chords:
-  AMaj:
+## chords
+##   AMaj
 
 ---
 
