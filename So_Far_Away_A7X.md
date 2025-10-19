@@ -1,5 +1,4 @@
 ---
-youTubeId: d15u10ddcSw
 ---
 
 # So Far Away A7X
@@ -162,9 +161,11 @@ l1: But it so hard to stay
 
 c1:       Am                                C     D    Em
 l1: And I have so much to say and you're so far away
+
+
  
 ## Solo 2
-c1: Em  D  Am  G  D/F#  Em  D  C x4
+c1: Em  D  Am  G  D/F#  Em  D  C 
 c2: Em  D  C
  
 ## Outro
