@@ -17,37 +17,6 @@ K: Em
 
 ---
 
-:::abc
-
-X: 1
-T: So Far Away A7X
-Q:1/4=110
-M: 4/4
-L: 1
-K: A
-|:"A" [AEC] |\
-     [AEC]|\
-    "D" [DFA]|\
-    [DFA]|
-"G" [GBD]|\
-    [GBD]|\
-    "Bb" [_BFD] |\
-    [_BFD] |\
-    "A" [AEC] :|
-
-
-:::
-
-
-
-## Solo
-
-main Solo. . . . .|. . . . .|
-
-(Enter Hi-Hats, Kick Drums) main Solo. . . . .|. . . . .|
-
-(Enter Drums)main Solo. . . . .|. . . . .|
-
 
 
 ## Verse 1
@@ -97,140 +66,130 @@ l1: Place and time, always on my mind
 c1:   Am                                C    D
 l1: I have so much to say but you're so far away
  
-## Chorus 
+## verse 2 
  
-c1:       A          G
-l1: Her kisi ko nahi milta
+c1: Em
+l1: Plans of what our futures hold
 
-c1:       Bb         A
-l1: Yahaan pyar zindagi mein
+c1: Em
+l1: Foolish lies of growing old
 
+c1:     G              D
+l1: It seems we're so invincible
+
+c1:     Bm          C
+l1: The truth is so cold
+
+c1: Em
+l1: A final song, a last request
+
+c1: Em
+l1: A perfect chapter laid to rest
+
+c1: G              D
+l1: Now and then I try to find
+
+c1:     Bm          C
+l1: The place in my mind
+
+## Bridge
+
+c1: C
+l1: Where you can stay
+
+c1: D
+l1: You can stay awake forever
+ 
+ 
+## Chorus
+c1: Em                        G
+l1: How do I live without the ones I love?
+
+c1: Am                                Em/G         D
+l1: Time still turns the pages of the book, it's burned
+
+c1: Em                    G
+l1: Place and time always on my mind
+
+c1:   Am                                C     D
+l1: I have so much to say but you're so far away
+ 
+## Verse 3
+c1: E
+l1: Sleep tight
+
+c1:      C
+l1: I'm not afraid (not afraid)
+
+c1:     Am                    Em/G         D
+l1: The ones that we love are here with me
+
+c1: E
+l1: Lay away
+
+c1:   C
+l1: A place for me (place for me)
+
+c1:           D
+l1: 'Cause as soon as I'm done
+
+c1:            C
+l1: I'll be on my way
+
+c1:     D
+l1: To live eternally
+ 
 ## Solo
-
-main Solo.........|..............
-
-main Solo.........|..............
-
+c1: E  C  Am  Em/G  D
+c2: E  C  D  C  D
  
+
+## Chorus
+c1: Em                        G
+l1: How do I live without the ones I love?
+
+c1: Am                                Em/G          D
+l1: Time still turns the pages of the book, it's burned
+
+c1: Em                    G
+l1: Place and time always on my mind
+
+c1:         Am
+l1: And the light you left remains
+
+c1:           C         D
+l1: But it so hard to stay
+
+c1:       Am                                C     D    Em
+l1: And I have so much to say and you're so far away
  
-## 1st para
-
-c1:     A             Dm
-l1: Pyar na ho toh zindagi kya hai
-
-c1:     Dm                  A
-l1: Yaar na ho toh bandegi kya hai  
-
-## Riff
-
-Riff. . . . | . . . . 
-
-## 1st Para
-
-c1:     A             Dm
-l1: Pyar na ho toh zindagi kya hai
-
-c1:      Dm                  A
-l1: Yaar na ho toh bandegi kya hai
-
-## Chorus3
+## Solo 2
+c1: Em  D  Am  G  D/F#  Em  D  C x4
+c2: Em  D  C
  
-c1:     G
-l1: Tujhse hi her khushi hai
+## Outro
+c1: Em
+l1: I love you
 
-c1:      G                    Bb    A
-l1: Tere damm se ashiqui hai, jaan le
+c1: D
+l1: You were ready
 
-## verse3
+c1: Am         G       D/F#       Em    D    C
+l1: The pain is strong and urges rise
+
+c1: Em
+l1: But I'll see you
+
+c1: D
+l1: When He lets me
+
+c1: Am           G          D/F#     Em    D    C
+l1: Your pain is gone, your hands untied
  
-c1:             A                 D
-l1: Mil jaayein hum to, sab kuchh sahi hai
+c1: Em D     C   Em         D             C
+l1: So far away      (And I need you to know)
 
-c1:         G                A
-l1: Phir is tarah kyoon hain ajnabee
-
-
-## Chorus2 
- 
-c1:        A              A
-l1: Tumme hum hain, humme tum ho
-
-c1:       G               G
-l1: Tumse hum hain, humse tum ho
-
-c1:     F                         G
-l1: Kismaton se milte hain do dil yahaan
- 
-## Chrous
-
-c1:         A         G
-l1: Her kisi ko nahi milta
-
-c1:        Bb           A
-l1: Yahaan pyar zindagi mein  (x2)
-
-## verse 2
- 
-c1:      A
-l1: Khush-naseeb hain hum
-
-c1:    D
-l1: Jinko hai mili
-
-c1:     Bb         A
-l1: Yeh bahar zindagi mein
-
-## Chrous
-
-c1:         A         G
-l1: Her kisi ko nahi milta
-c1:        Bb           A
-l1: Yahaan pyar zindagi mein  (x2)
-
-## Guitar Solo
-
-
- 
- 
-## Ignore--------------- 
- 
-## 2nd Para
-
-c1:     A             Dm
-l1: Tu mohabbat hai, ishq hai mera
-
-c1:      Dm                  A
-l1: Ek ibadat hai, sath yeh tera  (x2)
- 
-c1:     A             Dm 
-l1: Jab dil se dil milein hai
-
-c1:      Dm                  A
-l1: Phir kyoon yeh faansle hain, is tarah
-
-c1:     G 
-l1: Aa bol de tu, ya bol du main
-
-c1:      G                    Bb    A
-l1: Kab tak chhupaayein, yeh bekhudi
-
-## Chorus2
-
-c1:        A              A
-l1: Tumme hum hain, humme tum ho
-
-c1:       G               G
-l1: Tumse hum hain, humse tum ho
-
-c1:     F                         G
-l1: Kismaton se milte hain do dil yahaan
- 
-## Chrous
- 
-c1:        A           G
-l1: Her kisi ko nahi milta
-
-c1:        Bb            A
-l1: Yahaan pyar zindagi mein...  (x2)
+c1: Em D     C   Em         D                    C
+l1: So far away      (And I need you to need you to know)
 
 
